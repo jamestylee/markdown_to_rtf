@@ -2,7 +2,7 @@
 
 A feature-rich, browser-based notes application built with vanilla HTML5, CSS3, and JavaScript. This app focuses on a classic Markdown editing experience with a real-time rendered preview, offering a fast and efficient way to write and organize notes.
 
-![Screenshot of the Markdown to RTF App](placeholder.png)
+![Screenshot of the Markdown to RTF App](r2placeholder.png)
 *(Replace `placeholder.png` with a real screenshot of your app!)*
 
 ---
